@@ -18,9 +18,9 @@ const NewsInsights = lazy(() => import('../components/home/NewsInsights'))
 const FutureTogether = lazy(() => import('../components/home/FutureTogether'))
 
 
-const OurFounders = lazy(() => import('../components/home/OurFounders'))
-const Article = lazy(() => import('../components/home/Article'))
-const PartneringForGlobalImpact = lazy(() => import('../components/home/PartneringForGlobalImpact'));
+
+
+
 
 const newsData = [
   {
