@@ -4,6 +4,10 @@ import ErrorPage from './pages/ErrorPage'
 import HomePage from './pages/Home'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import NewsDetail from './pages/NewsDetail';
+import AboutUs from './pages/AboutUs';
+import OurServices from './pages/OurServices';
+import ContactUs from './pages/ContactUs';
+import ATRN from './pages/ATRN';
 
 
 
@@ -40,22 +44,22 @@ function App() {
           element: <NewsDetail />
         },
 
-        // {
-        //   path: '/industries-page',
-        //   element: <IndustriesPage />
-        // },
-        // {
-        //   path: '/associations-page',
-        //   element: <AssociationsPage />
-        // },
-        // {
-        //   path: '/about-page',
-        //   element: <AboutUs />
-        // },
-        // {
-        //   path: '/contact',
-        //   element: <ContactUs />
-        // },
+        {
+          path: '/aeturn',
+          element: <ATRN />
+        },
+        {
+          path: '/services',
+          element: <OurServices />
+        },
+        {
+          path: '/about',
+          element: <AboutUs />
+        },
+        {
+          path: '/contact',
+          element: <ContactUs />
+        },
 
         // {
         //   path: '/about',

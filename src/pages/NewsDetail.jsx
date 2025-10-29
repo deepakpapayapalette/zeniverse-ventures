@@ -1,7 +1,7 @@
 import React from 'react'
 import { useLocation, useParams } from 'react-router-dom'
-import newDetailImg from '../assets/images/news/news-detail.png'
-import newsDetail from '../assets/images/news/news-detail2.png'
+// import newDetailImg from '../assets/images/news/news-detail.png'
+// import newsDetail from '../assets/images/news/news-detail2.png'
 import { articlesData } from '../data/LocalData'
 import ScrollTopAtuo from '../components/common/ScrollTopAtuo'
 

@@ -1,4 +1,5 @@
-import bannerImage from '../../assets/images/banner2.gif'
+import bannerImage from '../../assets/images/page-banner.jpg'
+
 
 const Banner = ({ data = [] || null }) => {
 

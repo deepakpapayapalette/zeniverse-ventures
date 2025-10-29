@@ -50,12 +50,12 @@ const OurInnovativeSolutions = () => {
                       Empowering a healthier tomorrow with cutting-edge health tech solutions. We Digitize the Medical World.
                     </p>
                     <div className='flex md:flex-row flex-col  md:max-w-[400px]   gap-6 '>
-                      <Link to="/aeturn-emr" className='w-full'>
+                      <Link to="/aeturn" className='w-full'>
                         <button className='theme-btn-fill md:min-w-[200px] w-full '>
                           Visit Website
                         </button>
                       </Link>
-                      <Link to="/aeturn-emr ">
+                      <Link to="/aeturn ">
                         <button className='theme-btn md:min-w-[200px] w-full'>
                           Learn More
                         </button>

@@ -30,7 +30,7 @@ const Navbar = () => {
       name: "About Us", href: "/about",
       // dropdownKey: "about",  hasDropdown: true, dropdown: <AboutDropdown />
     },
-    { name: "Service", href: "/future-vision" },
+    { name: "Service", href: "/services" },
 
     { name: "Contact Us", href: "/contact" },
 

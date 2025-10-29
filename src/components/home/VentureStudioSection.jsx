@@ -36,10 +36,7 @@ const VentureStudioSection = () => (
       <div className="mb-6">
         <div className="mb-4">
           <HeadingBtn text="VENTURE STUDIO" />
-        </div>
-        {/* <span className="inline-block bg-white text-black font-bold border px-4 py-2 text-lg rounded shadow-none mb-3">
-          VENTURE STUDIO
-        </span> */}
+        </div> 
         <h3 className="text-3xl md:text-4xl font-semibold text-webprimary mb-2 leading-tight">
           Venture Studio: Building the Future Together
         </h3>

@@ -15,7 +15,7 @@ const Hero = () => {
               <HeadingBtn text="Zeniverse Ventures" styleprops={{ color: 'white' }} />
             </h6>
             <h1 className='lg:text-4xl md:text-4xl text-2xl font-semibold mb-2' style={{ lineHeight: '1.3' }} >
-              Collaborating to <span className='text-webprimary text-6xl'>Build AI <br />Solutions</span> for a Better World
+              Collaborating to <span className='text-webprimary text-3xl md:text-6xl'>Build AI <br />Solutions</span> for a Better World
             </h1>
             <p className='md:text-xl text-white'>At Zeniverse Ventures, we create AI solutions that empower growth, uplift communities, and shape a smarter future together.</p>
 

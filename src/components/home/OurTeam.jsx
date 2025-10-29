@@ -97,10 +97,8 @@ const OurTeam = () => (
                 alt={member.name}
                 className="w-full h-auto rounded-md object-cover mb-4"
               />
-
             </div>
             <div>
-
               <h4 className="text-webprimary font-semibold text-xl mb-1">{member.name}</h4>
               <div className="text-black font-semibold mb-2">{member.role}</div>
               <p className="text-gray-700 text-base ">{member.desc}</p>
